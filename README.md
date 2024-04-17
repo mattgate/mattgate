@@ -1,5 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHmhd77LMvZcw/profile-displaybackgroundimage-shrink_350_1400/0/1706145438499?e=1718841600&v=beta&t=EwlZSVZhZnb7VJFlXEUfaY3OM9ZgklRTdxqWJSuvMqU" />
-
+![](Banner.png)
 
 <h1 align="center"> Hi I'm mattgate 👋</h1>
 
