@@ -43,7 +43,7 @@ Passionate about programming, software engineer from Mexico.
 
 **Connect with me:**
 
-<a href="<www.linkedin.com/in/angel-canul-747230283>"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
+<a href="https://www.linkedin.com/in/angel-canul-747230283"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" /></a>
 
 
 
